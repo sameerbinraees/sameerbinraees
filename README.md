@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/sameerbinraees) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerbinraees) 
 [![Website](https://img.shields.io/website?url=https://sameerbinraees-portfolio.vercel.app/&label=Portfolio)](https://sameerbinraees-portfolio.vercel.app/)
 
 
